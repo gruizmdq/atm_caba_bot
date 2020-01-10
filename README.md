@@ -10,10 +10,12 @@ The bot will also return an google maps image.
 # Considerations
 The atms do not have unlimited cash. So the bot suposses that every morning at 8am each atm are recargados with $1000. 
 The bot assumes the following:
+
 1.If atms returned are 3:
 - 70% times people go to closest atm
 - 20% to second one.
 - 10% to the last one.
+
 2.If atms returned are 2:
 - 80% chance people go to the closest atm.
 - 20% chance people go to the second one.
